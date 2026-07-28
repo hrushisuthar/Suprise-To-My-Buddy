@@ -1742,10 +1742,6 @@ const popupMessage = `Dear Princess ❤️,
 
 I hope this little surprise brought a smile to your face.
 
-Every moment with you is special to me.
-
-Thank you for being part of my journey.
-
 No matter where life takes us,
 I will always wish the best for you.
 
