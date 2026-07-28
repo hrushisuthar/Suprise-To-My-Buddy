@@ -869,12 +869,6 @@ I know life isn't always perfect,
 but every moment with you becomes
 my favourite memory.
 
-You're my peace,
-my smile,
-my comfort,
-and the most beautiful chapter
-of my life.
-
 Thank you for staying,
 for understanding me,
 and for making my ordinary days
@@ -882,8 +876,6 @@ feel extraordinary.
 
 No matter where life takes us,
 I'll always pray for your happiness.
-
-You deserve every smile in this world.
 
 ❤️ Forever Yours.`;
 
